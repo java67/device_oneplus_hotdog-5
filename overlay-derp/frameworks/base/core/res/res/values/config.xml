@@ -26,7 +26,7 @@
 
     <!-- Max visible notification icons -->
     <integer name="config_maxVisibleNotificationIcons">6</integer>
-    <integer name="config_maxVisibleNotificationIconsWhenDark">7</integer>
+    <integer name="config_maxVisibleNotificationIconsOnLock">7</integer>
 
     <!-- OnePlus uses a proprietary vibrator hal to utilize the new powerful motor since the
          OnePlus 7 Pro. This HAL expects a different format for the data instead of the usual (ms)
