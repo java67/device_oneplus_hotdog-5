@@ -5,6 +5,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_hotdog.mk
+    $(LOCAL_DIR)/exthm_hotdog.mk
 COMMON_LUNCH_CHOICES := \
-    aosip_hotdog-userdebug
+    exthm_hotdog-userdebug
